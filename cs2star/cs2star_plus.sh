@@ -1,4 +1,4 @@
-#
+# Author :Kong Fang
 #tmp_star=${1/cs/star}
 echo Convert cs file to star file
 
