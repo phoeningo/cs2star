@@ -1,5 +1,6 @@
 #Author : Kong Fang
 input=$1
+# change x ,y if needed
 x=5760
 y=4092
 
