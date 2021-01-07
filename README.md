@@ -1,6 +1,6 @@
 # cs2star
 !!!
-You should have installed pyem from https://github.com/asarnow/pyem and make sure that the  'csparc2star.py ' script work correctly .
+You should have installed pyem from https://github.com/asarnow/pyem and make sure that the  'csparc2star.py ' script runs correctly .
 !!!
 
 cs2star.sh is used only for :
