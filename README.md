@@ -18,5 +18,5 @@ Note that:
          particles.star is the extracted particles meta when you extract particles using RELION
          
          
-cs2star_plus.sh can be used for more types of jobs in cryoSPARC, [even when you extract particles in cryoSPARC, it will also works.], Please contact me to get further usage.
+cs2star_plus.sh can be used for more types of jobs in cryoSPARC, [even when you extract particles in cryoSPARC, it will also work.], Please contact me to get further usage.
       
