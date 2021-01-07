@@ -2,8 +2,8 @@
 
 cs2star.sh is used only for :
   
-      1. Extracted in RELION
-      2. Hetreo Refine and Non Uniform Refine in cryoSPARC 
+      1. Particles arw extracted in RELION
+      2. After running Hetreo Refine and Non Uniform Refine jobs in cryoSPARC 
       
 
  usage:  cs2star.sh xxxx.cs  particles.star  newname.star
