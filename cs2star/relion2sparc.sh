@@ -1,3 +1,4 @@
+#Author : Kong Fang
 input=$1
 x=5760
 y=4092
