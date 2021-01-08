@@ -9,8 +9,11 @@ cs2star.sh is used only for :
       2. After running Hetreo Refine and Non Uniform Refine jobs in cryoSPARC 
       
 !!!
+
 output star file using format of RELION 3.0.7 and before , if you are using RELION 3.1. You dont need this script . But be careful for the X,Y coord.
+
 !!!
+
 Note that:
  
       1.If you use cs2star converted star to run further class3d in RELION ,you should check whether these particle stack files were end with .mrcs . IF not ,use 'ln -s 'command to do so.
